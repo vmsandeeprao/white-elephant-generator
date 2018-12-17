@@ -13,6 +13,7 @@ This is a simple script that generates names of friends in random order to pick 
 
 ## How the game looks
 
+```
 /Downloads/$ python elephant.py 
 Welcome to White Elephant! 
 
@@ -43,3 +44,4 @@ command > n
 Next Name: DAVID
 
 All names are drawn! Hope you had fun!!
+```
